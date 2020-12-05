@@ -1,3 +1,7 @@
+-- DISCLAIMER
+--
+-- this solution is pretty jank lol, should've probably used regex XDD
+
 import System.IO
 import Data.List
 import Data.Char
